@@ -1,7 +1,7 @@
-package com.phegondev.Phegon.Eccormerce.dto;
+package com.shop.shopNow.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.phegondev.Phegon.Eccormerce.entity.Payment;
+import com.shop.shopNow.entity.Payment;
 import lombok.Data;
 
 import java.math.BigDecimal;

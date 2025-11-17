@@ -1,7 +1,7 @@
-package com.phegondev.Phegon.Eccormerce.dto;
+package com.shop.shopNow.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.phegondev.Phegon.Eccormerce.enums.UserRole;
+import com.shop.shopNow.enums.UserRole;
 import lombok.Builder;
 import lombok.Data;
 

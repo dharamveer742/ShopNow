@@ -1,4 +1,4 @@
-package com.phegondev.Phegon.Eccormerce.dto;
+package com.shop.shopNow.dto;;
 
 import lombok.Data;
 
